@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "proyecto de coursera fullstack",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jullentuss/fullstack.git"
+  },
+  "author": "Julen Rubio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jullentuss/fullstack/issues"
+  },
+  "homepage": "https://github.com/Jullentuss/fullstack#readme"
+}
